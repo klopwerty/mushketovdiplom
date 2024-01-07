@@ -1,0 +1,96 @@
+/* общие классы*/
+
+body {
+    background: #34a4a1;
+    min-width: 980px;
+    max-width: 1920px;
+    margin: 0 auto;
+
+}
+
+.MAIN {
+    text-align: center;
+}
+
+.Name {
+    text-align: center;
+    padding: 2%;
+}
+select {
+    width: 320px;
+    height:30px;
+   }
+
+/* index */
+
+.login_form {
+
+    text-align: center;
+
+    margin: auto;
+    
+    padding: 7%;
+
+}
+
+.submit {
+
+    padding: 5px 10px 5px 10px;
+    margin-top: 10px;
+}
+.back {
+
+    padding: 10px 20px 10px 20px;
+}
+
+/* /index */
+
+/* main */
+
+.button {
+    background-color: #197a98;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+    
+}
+
+
+
+.Button {
+
+    text-align: center;
+    margin:0 auto;
+
+}
+
+.Main_text {
+    text-align: center;
+    padding: 0px 120px 20px 150px;
+}
+
+.content {
+
+    padding: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
